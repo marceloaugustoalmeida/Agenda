@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "532380653014",
+    "firebase_url": "https://agenda-sync-b2026.firebaseio.com",
+    "project_id": "agenda-sync-b2026",
+    "storage_bucket": "agenda-sync-b2026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532380653014:android:41df78a408f4a146",
+        "android_client_info": {
+          "package_name": "com.example.marce.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532380653014-3v4ut9eedbtk0dc993plliuoaj0k0t6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marce.agenda",
+            "certificate_hash": "c2018c0343520e04d988e836ec77548b2c454c09"
+          }
+        },
+        {
+          "client_id": "532380653014-eu5t5eopd4qh6ua28lna055q8ija0ks7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkb26mM_w7WzIgFjEEV9M7M9QRKdqExBw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532380653014-eu5t5eopd4qh6ua28lna055q8ija0ks7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

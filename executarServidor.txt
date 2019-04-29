@@ -1,0 +1,2 @@
+Para executar o arquivo jar basta apenas usar o comando 
+java -jar server.jar
